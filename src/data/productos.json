@@ -1,0 +1,17 @@
+{
+	"VOUCHER":{
+		"code":"VOUCHER",
+		"name":"Peppa pig voucher",
+		"price":5
+	},
+	"TSHIRT":{
+		"code":"TSHIRT",
+		"name":"Avengers end game t-shirt",
+		"price":20
+	},
+	"MUG":{
+		"code":"MUG",
+		"name":"Salad mug",
+		"price":7.5
+	}
+}

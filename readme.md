@@ -3,7 +3,7 @@
 Como ejecutar el proyecto: justo.mx
 
 1. Abrir la consola de comandos: CMD
-2. Clonamos el repositorio, dentro de la consola de comandos, ejecutamos el siguiente comando: `git clone git@github.com:ingjaviersm/justo.mx.git`
+2. Clonamos el repositorio, dentro de la consola de comandos, ejecutamos el siguiente comando: `git clone https://github.com/ingjaviersm/justo.mx.git`
 3. Instalamos las dependencias usadas por el proyecto, dentro de la consola de comandos, ejecutamos el siguiente comando: `npm install`
 
 **Nota**:
